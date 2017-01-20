@@ -1,0 +1,53 @@
+1483389291263	geckodriver	INFO	Listening on 127.0.0.1:33625
+1483389292293	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vkhkVfCVvhGh
+1483389292294	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483389292312	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38291
+1483389297631	Marionette	INFO	Listening on port 38291
+
+(firefox:7644): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7644): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7644): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7644): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7644): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7644): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7644): GLib-GObject-WARNING **: /build/glib2.0-7IO_Yw/glib2.0-2.48.1/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f5d310bf060' of type 'MaiAtkType139'
+1483389673862	geckodriver	INFO	Listening on 127.0.0.1:54446
+1483389674881	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.V3NRtA4Cgolz
+1483389674882	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483389674886	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44166
+1483389676241	Marionette	INFO	Listening on port 44166
+
+(firefox:7949): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7949): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7949): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7949): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7949): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:7949): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+1483389800438	geckodriver	INFO	Listening on 127.0.0.1:38481
+1483389801440	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.B2V2FbnKaqgK
+1483389801442	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483389801445	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35331
+1483389802369	Marionette	INFO	Listening on port 35331
+
+(firefox:8111): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8111): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8111): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8111): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8111): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:8111): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
