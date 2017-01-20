@@ -1,0 +1,152 @@
+!SESSION 2016-12-26 21:52:22.742 -----------------------------------------------
+eclipse.buildId=R3.7.1.201612151837
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -eclipse.keyring @user.home/.xmind/secure_storage_linux
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data ../workspace -eclipse.keyring @user.home/.xmind/secure_storage_linux
+
+!ENTRY org.xmind.cathy 1 0 2016-12-26 21:52:40.375
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2016-12-26 21:52:40.376
+!MESSAGE Skip unrecognized command line argument: '@user.home/.xmind/secure_storage_linux'
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2016-12-26 21:52:48.893
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.xmind.ui.sharing/org.xmind.ui.internal.sharing.SharingServiceStatusToolControl
+!SESSION 2016-12-27 18:34:34.957 -----------------------------------------------
+eclipse.buildId=R3.7.1.201612151837
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -eclipse.keyring @user.home/.xmind/secure_storage_linux
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data ../workspace -eclipse.keyring @user.home/.xmind/secure_storage_linux
+
+!ENTRY org.xmind.cathy 1 0 2016-12-27 18:34:43.373
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+!SESSION 2016-12-27 18:34:34.957 -----------------------------------------------
+eclipse.buildId=R3.7.1.201612151837
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -eclipse.keyring @user.home/.xmind/secure_storage_linux
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data ../workspace -eclipse.keyring @user.home/.xmind/secure_storage_linux
+
+!ENTRY org.xmind.cathy 1 0 2016-12-27 18:34:43.378
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2016-12-27 18:34:43.384
+!MESSAGE Skip unrecognized command line argument: '@user.home/.xmind/secure_storage_linux'
+
+!ENTRY org.xmind.cathy 1 0 2016-12-27 18:34:43.384
+!MESSAGE Skip unrecognized command line argument: '@user.home/.xmind/secure_storage_linux'
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2016-12-27 18:34:55.254
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.xmind.ui.sharing/org.xmind.ui.internal.sharing.SharingServiceStatusToolControl
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2016-12-27 18:34:55.276
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.xmind.ui.sharing/org.xmind.ui.internal.sharing.SharingServiceStatusToolControl
+
+!ENTRY org.xmind.ui.seawind 1 0 2016-12-27 18:34:58.148
+!MESSAGE WARNING: Library owner is null in info.json
+
+!ENTRY org.xmind.ui.seawind 1 0 2016-12-27 18:34:58.152
+!MESSAGE WARNING: Library owner is null in info.json
+
+!ENTRY net.xmind.workbench 4 0 2016-12-27 18:34:58.485
+!MESSAGE Failed to retrieve site events: 307
+!STACK 0
+java.lang.NullPointerException
+	at org.xmind.core.net.internal.XMindNetRequest.readResponse(XMindNetRequest.java:1113)
+	at org.xmind.core.net.internal.XMindNetRequest.send(XMindNetRequest.java:984)
+	at org.xmind.core.net.internal.XMindNetRequest.executeInDaemonThread(XMindNetRequest.java:896)
+	at org.xmind.core.net.internal.XMindNetRequest.access$0(XMindNetRequest.java:889)
+	at org.xmind.core.net.internal.XMindNetRequest$1.run(XMindNetRequest.java:870)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY net.xmind.workbench 4 0 2016-12-27 18:34:58.539
+!MESSAGE Failed to retrieve site events: 307
+!STACK 0
+java.lang.NullPointerException
+	at org.xmind.core.net.internal.XMindNetRequest.readResponse(XMindNetRequest.java:1113)
+	at org.xmind.core.net.internal.XMindNetRequest.send(XMindNetRequest.java:984)
+	at org.xmind.core.net.internal.XMindNetRequest.executeInDaemonThread(XMindNetRequest.java:896)
+	at org.xmind.core.net.internal.XMindNetRequest.access$0(XMindNetRequest.java:889)
+	at org.xmind.core.net.internal.XMindNetRequest$1.run(XMindNetRequest.java:870)
+	at java.lang.Thread.run(Thread.java:745)
+!SESSION 2016-12-29 15:43:31.126 -----------------------------------------------
+eclipse.buildId=R3.7.1.201612151837
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -eclipse.keyring @user.home/.xmind/secure_storage_linux
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data ../workspace -eclipse.keyring @user.home/.xmind/secure_storage_linux
+
+!ENTRY org.xmind.cathy 1 0 2016-12-29 15:43:37.842
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2016-12-29 15:43:37.849
+!MESSAGE Skip unrecognized command line argument: '@user.home/.xmind/secure_storage_linux'
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2016-12-29 15:43:45.955
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.xmind.ui.sharing/org.xmind.ui.internal.sharing.SharingServiceStatusToolControl
+
+!ENTRY org.xmind.ui.seawind 1 0 2016-12-29 15:43:52.479
+!MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-01-02 23:02:22.070 -----------------------------------------------
+eclipse.buildId=R3.7.1.201612151837
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -eclipse.keyring @user.home/.xmind/secure_storage_linux
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data ../workspace -eclipse.keyring @user.home/.xmind/secure_storage_linux
+
+!ENTRY org.xmind.cathy 1 0 2017-01-02 23:02:28.579
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-01-02 23:02:28.589
+!MESSAGE Skip unrecognized command line argument: '@user.home/.xmind/secure_storage_linux'
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2017-01-02 23:02:37.523
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.xmind.ui.sharing/org.xmind.ui.internal.sharing.SharingServiceStatusToolControl
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-01-02 23:02:48.774
+!MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-01-03 01:08:30.770 -----------------------------------------------
+eclipse.buildId=R3.7.1.201612151837
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -eclipse.keyring @user.home/.xmind/secure_storage_linux
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data ../workspace -eclipse.keyring @user.home/.xmind/secure_storage_linux
+
+!ENTRY org.xmind.cathy 1 0 2017-01-03 01:08:37.421
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-01-03 01:08:37.433
+!MESSAGE Skip unrecognized command line argument: '@user.home/.xmind/secure_storage_linux'
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2017-01-03 01:08:45.941
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.xmind.ui.sharing/org.xmind.ui.internal.sharing.SharingServiceStatusToolControl
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-01-03 01:09:01.555
+!MESSAGE WARNING: Library owner is null in info.json
+!SESSION 2017-01-05 23:36:18.049 -----------------------------------------------
+eclipse.buildId=R3.7.1.201612151837
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -eclipse.keyring @user.home/.xmind/secure_storage_linux
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -data ../workspace -eclipse.keyring @user.home/.xmind/secure_storage_linux
+
+!ENTRY org.xmind.cathy 1 0 2017-01-05 23:36:25.909
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2017-01-05 23:36:25.916
+!MESSAGE Skip unrecognized command line argument: '@user.home/.xmind/secure_storage_linux'
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2017-01-05 23:36:35.166
+!MESSAGE Unable to retrieve the bundle from the URI: bundleclass://org.xmind.ui.sharing/org.xmind.ui.internal.sharing.SharingServiceStatusToolControl
+
+!ENTRY org.xmind.ui.seawind 1 0 2017-01-05 23:38:13.784
+!MESSAGE WARNING: Library owner is null in info.json
